@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<title>끝인사</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1><a href="book">RadicalBooks</a></h1>
+<ol>
+  <li><a href="인사말">Greetings</a></li>
+  <li><a href="소개">Introduce</a></li>
+  <li><a href="끝인사">Greeting</a></li>
+</ol>
+</h2>끝인사</h2>
+<p>저희 사이트를 이용해주셔서 감사합니다.</P>
+</body>
+</html>
+<img src="끝인사.jpg" width="500" lenth="250">
